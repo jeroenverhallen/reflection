@@ -1,0 +1,1 @@
+Sequelize is a module that allows javascript to interact with ( for example ) Postgres databases

@@ -1,0 +1,1 @@
+A promise is a function that only fires once a certain condition is met

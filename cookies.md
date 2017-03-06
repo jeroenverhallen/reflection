@@ -1,0 +1,1 @@
+cookies are simple files that store data on the client side

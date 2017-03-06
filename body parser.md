@@ -1,0 +1,1 @@
+Body parser turns your JSON file into a normal array
