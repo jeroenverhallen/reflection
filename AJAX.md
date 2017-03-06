@@ -3,5 +3,5 @@ is middleware for interacting with the browser asynchronously without the need f
 It mainly uses 4 methods
 Get
 Put
-Edit
+Post
 Delete
