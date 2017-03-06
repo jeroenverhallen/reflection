@@ -1,4 +1,4 @@
-for and why loops are functions that can loop through arrays.
+for and why loops are functions that can loop through a block of code, for example an array.
 If you know the number of iterations, use a for loop.
 If you need a loop to continue as long as a certain condition is valid, use a while loop
 ```javascript
